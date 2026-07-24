@@ -10,8 +10,8 @@
   <a href="https://t.me/funpayfreetools">
     <img src="https://img.shields.io/badge/Telegram-@funpayfreetools-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=e53935&labelColor=1a1a2e" alt="Telegram"/>
   </a>
-  <a href="https://chromewebstore.google.com/detail/funpay-tools/pibmnjjfpojnakckilflcboodkndkibb/">
-    <img src="https://img.shields.io/badge/Chrome_Web_Store-Установить-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white&color=e53935&labelColor=1a1a2e" alt="Chrome"/>
+  <a href="#--установка">
+    <img src="https://img.shields.io/badge/Установить-Расширение-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white&color=e53935&labelColor=1a1a2e" alt="Chrome"/>
   </a>
   <a href="https://github.com/ismailtu3455-prog/funpay-tools-free">
     <img src="https://img.shields.io/badge/Open_Source-MIT-FFD700?style=for-the-badge&logo=github&logoColor=white&color=e53935&labelColor=1a1a2e" alt="MIT"/>
