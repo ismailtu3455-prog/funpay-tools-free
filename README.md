@@ -1,30 +1,30 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=FunPay%20Tools&section=header&reversal=false&textBg=false&animation=twinkling&fontColor=c084fc&fontAlign=50&desc=Лучшее%20расширение%20для%20продавцов%20FunPay&descSize=18&fontAlignY=30&descAlignY=52)](https://github.com/XaviersDev/FunPay-Tools)
+[![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=FunPay%20Tools&section=header&reversal=false&textBg=false&animation=twinkling&fontColor=ef5350&fontAlign=50&desc=Лучшее%20расширение%20для%20продавцов%20FunPay&descSize=18&fontAlignY=30&descAlignY=52)](https://github.com/ismailtu3455-prog/funpay-tools-free)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=ИИ-ассистент+%E2%80%A2+Автоматизация+%E2%80%A2+Полная+кастомизация;Открытый+исходный+код+%E2%80%A2+Бесплатно+%E2%80%A2+Для+продавцов)](https://github.com/XaviersDev/FunPay-Tools)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1000&color=e53935&center=true&vCenter=true&width=700&lines=ИИ-ассистент+%E2%80%A2+Автоматизация+%E2%80%A2+Полная+кастомизация;Открытый+исходный+код+%E2%80%A2+Бесплатно+%E2%80%A2+Для+продавцов)](https://github.com/ismailtu3455-prog/funpay-tools-free)
 
 </div>
 
 <p align="center">
-  <a href="https://t.me/FPTools">
-    <img src="https://img.shields.io/badge/Telegram-@FPTools-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=a855f7&labelColor=1a1a2e" alt="Telegram"/>
+  <a href="https://t.me/funpayfreetools">
+    <img src="https://img.shields.io/badge/Telegram-@funpayfreetools-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=e53935&labelColor=1a1a2e" alt="Telegram"/>
   </a>
   <a href="https://chromewebstore.google.com/detail/funpay-tools/pibmnjjfpojnakckilflcboodkndkibb/">
-    <img src="https://img.shields.io/badge/Chrome_Web_Store-Установить-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white&color=a855f7&labelColor=1a1a2e" alt="Chrome"/>
+    <img src="https://img.shields.io/badge/Chrome_Web_Store-Установить-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white&color=e53935&labelColor=1a1a2e" alt="Chrome"/>
   </a>
-  <a href="https://github.com/XaviersDev/FunPay-Tools">
-    <img src="https://img.shields.io/badge/Open_Source-MIT-FFD700?style=for-the-badge&logo=github&logoColor=white&color=a855f7&labelColor=1a1a2e" alt="MIT"/>
+  <a href="https://github.com/ismailtu3455-prog/funpay-tools-free">
+    <img src="https://img.shields.io/badge/Open_Source-MIT-FFD700?style=for-the-badge&logo=github&logoColor=white&color=e53935&labelColor=1a1a2e" alt="MIT"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Версия-2.8-a855f7?style=for-the-badge&logoColor=white&color=a855f7&labelColor=1a1a2e" alt="v2.8"/>
+    <img src="https://img.shields.io/badge/Версия-2.8-e53935?style=for-the-badge&logoColor=white&color=e53935&labelColor=1a1a2e" alt="v2.8"/>
   </a>
 </p>
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/XaviersDev/FunPay-Tools?style=social)](https://github.com/XaviersDev/FunPay-Tools/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/XaviersDev/FunPay-Tools?style=social)](https://github.com/XaviersDev/FunPay-Tools/network)
+[![GitHub stars](https://img.shields.io/github/stars/ismailtu3455-prog/funpay-tools-free?style=social)](https://github.com/ismailtu3455-prog/funpay-tools-free/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ismailtu3455-prog/funpay-tools-free?style=social)](https://github.com/ismailtu3455-prog/funpay-tools-free/network)
 
 </div>
 
@@ -36,18 +36,18 @@
 
 <br>
 
-**FunPay Tools** - это полностью бесплатное браузерное расширение с открытым исходным кодом, созданное для продавцов на FunPay. Оно добавляет мощные инструменты на базе AI, полную кастомизацию интерфейса, автоматизацию рутинных задач и множество других функций, которые упрощают работу и помогают увеличить продажи.
+**FunPay Free Tools** - это полностью бесплатное браузерное расширение с открытым исходным кодом, созданное для продавцов на FunPay. Оно добавляет мощные инструменты на базе AI, полную кастомизацию интерфейса, автоматизацию рутинных задач и множество других функций, которые упрощают работу и помогают увеличить продажи.
 
 ---
 
 > [!NOTE]
-> Также доступна мобильная версия: **[FunPay Tools для Android](https://github.com/XaviersDev/FunPay-Tools-Android)** - полноценное приложение с мессенджером, автоответчиком, авто-поднятием и XD Dumper прямо на телефоне.
+> Также доступна мобильная версия: **[FunPay Free Tools для Android](https://github.com/ismailtu3455-prog/funpay-tools-free-Android)** - полноценное приложение с мессенджером, автоответчиком, авто-поднятием и XD Dumper прямо на телефоне.
 
 ---
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=🤖+ИИ-Функции)](https://github.com/XaviersDev/FunPay-Tools)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=e53935&center=true&vCenter=true&width=500&lines=🤖+ИИ-Функции)](https://github.com/ismailtu3455-prog/funpay-tools-free)
 
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=🎨+Кастомизация)](https://github.com/XaviersDev/FunPay-Tools)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=e53935&center=true&vCenter=true&width=500&lines=🎨+Кастомизация)](https://github.com/ismailtu3455-prog/funpay-tools-free)
 
 </div>
 
@@ -91,7 +91,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=🛠️+Инструменты+продавца)](https://github.com/XaviersDev/FunPay-Tools)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=e53935&center=true&vCenter=true&width=500&lines=🛠️+Инструменты+продавца)](https://github.com/ismailtu3455-prog/funpay-tools-free)
 
 </div>
 
@@ -119,7 +119,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=⚙️+Автоматизация)](https://github.com/XaviersDev/FunPay-Tools)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=e53935&center=true&vCenter=true&width=500&lines=⚙️+Автоматизация)](https://github.com/ismailtu3455-prog/funpay-tools-free)
 
 </div>
 
@@ -145,7 +145,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=🤖+Автоответчик)](https://github.com/XaviersDev/FunPay-Tools)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=e53935&center=true&vCenter=true&width=500&lines=🤖+Автоответчик)](https://github.com/ismailtu3455-prog/funpay-tools-free)
 
 </div>
 
@@ -170,7 +170,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=⚡+Авто-выдача)](https://github.com/XaviersDev/FunPay-Tools)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=e53935&center=true&vCenter=true&width=500&lines=⚡+Авто-выдача)](https://github.com/ismailtu3455-prog/funpay-tools-free)
 
 </div>
 
@@ -187,7 +187,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=💬+Чат)](https://github.com/XaviersDev/FunPay-Tools)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=e53935&center=true&vCenter=true&width=500&lines=💬+Чат)](https://github.com/ismailtu3455-prog/funpay-tools-free)
 
 </div>
 
@@ -213,7 +213,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=👥+Аккаунты+и+поддержка)](https://github.com/XaviersDev/FunPay-Tools)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=e53935&center=true&vCenter=true&width=600&lines=👥+Аккаунты+и+поддержка)](https://github.com/ismailtu3455-prog/funpay-tools-free)
 
 </div>
 
@@ -231,7 +231,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=📱+FunPay+Tools+для+Android)](https://github.com/XaviersDev/FunPay-Tools-Android)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=e53935&center=true&vCenter=true&width=600&lines=📱+FunPay+Tools+для+Android)](https://github.com/ismailtu3455-prog/funpay-tools-free-Android)
 
 </div>
 
@@ -240,11 +240,11 @@
 </div>
 
 > [!NOTE]
-> Хочешь управлять продажами со смартфона? Встречай **FunPay Tools для Android** - отдельное нативное приложение с полноценным мессенджером, автоответчиком, XD Dumper (авто-снижение цены), вечным онлайном и виджетами на рабочий стол.
+> Хочешь управлять продажами со смартфона? Встречай **FunPay Free Tools для Android** - отдельное нативное приложение с полноценным мессенджером, автоответчиком, XD Dumper (авто-снижение цены), вечным онлайном и виджетами на рабочий стол.
 
 <div align="center">
 
-[![Android App](https://img.shields.io/badge/Скачать_для_Android-9333ea?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a2e)](https://github.com/XaviersDev/FunPay-Tools-Android)
+[![Android App](https://img.shields.io/badge/Скачать_для_Android-9333ea?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a2e)](https://github.com/ismailtu3455-prog/funpay-tools-free-Android)
 
 </div>
 
@@ -285,9 +285,9 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Сообщество_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=a855f7&labelColor=1a1a2e)](https://t.me/FPTools)
-[![GitHub Stars](https://img.shields.io/badge/Поставить_⭐_Star-FFD700?style=for-the-badge&logo=github&logoColor=white&color=a855f7&labelColor=1a1a2e)](https://github.com/XaviersDev/FunPay-Tools/stargazers)
-[![Issues](https://img.shields.io/badge/Сообщить_о_баге-FF4081?style=for-the-badge&logo=github&logoColor=white&color=a855f7&labelColor=1a1a2e)](https://github.com/XaviersDev/FunPay-Tools/issues)
+[![Telegram](https://img.shields.io/badge/Сообщество_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=e53935&labelColor=1a1a2e)](https://t.me/funpayfreetools)
+[![GitHub Stars](https://img.shields.io/badge/Поставить_⭐_Star-FFD700?style=for-the-badge&logo=github&logoColor=white&color=e53935&labelColor=1a1a2e)](https://github.com/ismailtu3455-prog/funpay-tools-free/stargazers)
+[![Issues](https://img.shields.io/badge/Сообщить_о_баге-FF4081?style=for-the-badge&logo=github&logoColor=white&color=e53935&labelColor=1a1a2e)](https://github.com/ismailtu3455-prog/funpay-tools-free/issues)
 
 </div>
 
@@ -301,6 +301,6 @@
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=82&section=footer)](https://github.com/XaviersDev/FunPay-Tools)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=82&section=footer)](https://github.com/ismailtu3455-prog/funpay-tools-free)
 
 </div>
